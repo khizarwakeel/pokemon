@@ -1,1 +1,1 @@
-## Pokemon Website Landing Page
+## Pokemon Website Landing Page (SMIT)
